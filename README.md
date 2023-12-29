@@ -15,4 +15,3 @@ I am passionate about software development and have a strong foundation in vario
 
 - LinkedIn: [Rudra Patel](https://www.linkedin.com/in/rrp3827/)
 - Email: rrp3827@gmail.com
-- Phone: 541-570-8491
