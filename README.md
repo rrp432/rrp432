@@ -1,17 +1,36 @@
-# Hi there, I'm Rudra Patel 👋
+---
 
-I am a Computer Science student at Rutgers University, currently residing in Jersey City, New Jersey.
-I am passionate about software development and have a strong foundation in various programming languages and technologies.
+# 👋 Hi, I’m Rudra Patel
 
+I’m a full-stack developer who enjoys building real-world systems that solve actual problems. I work mostly with Java and Spring Boot on the backend, and I’m comfortable with React and Android on the frontend. I’ve had hands-on experience with databases like MongoDB, PostgreSQL, and tools like Redis, Firebase, and OpenAI’s API.
 
-## 💻 Skills
+Over the past year, I’ve worked in a backend role where I built and improved REST APIs, optimized performance, and collaborated in a team using Agile methods. I’m always up for learning new technologies and improving my skills, whether it’s writing cleaner code, testing better, or understanding system design more deeply.
 
-- **Programming Languages:** C, C++, Java, Python3 (NumPy, Pandas, Matplotlib), R, SQL
-- **Database Systems:** MySQL, Microsoft Access, Oracle SQL
-- **Web Technologies:** HTML, CSS, Bootstrap, JavaScript, Git, Jira
-- **Soft Skills:** Public Speaking, Creative, Problem Solving, Critical Thinking
+---
 
-## 📫 How to Reach Me
+## 🛠 Skills at a Glance
 
-- LinkedIn: [Rudra Patel](https://www.linkedin.com/in/rrp3827/)
-- Email: rrp3827@gmail.com
+**Languages:** Java, Python, JavaScript, TypeScript  
+**Frontend & Mobile:** React, HTML, CSS, Bootstrap, Android, Jetpack Compose  
+**Backend:** Spring Boot, RESTful APIs, Spring Security, JDBC, Spring Data JPA  
+**Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Oracle, Firebase, AWS  
+**Tools:** GitLab, Docker, Jenkins, JUnit, Postman, SonarQube  
+**Concepts:** OOP, Microservices, CI/CD, JWT, OAuth 2.0
+
+---
+
+## 🎓 Education
+
+**Rutgers University – New Brunswick, NJ**  
+Bachelor of Science in Computer Science (Expected Dec 2024)  
+Relevant coursework includes Data Structures, Algorithms, Systems Programming, and Database Management.
+
+---
+
+## 📫 Let’s Connect
+
+📧 rrp3827@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rrp3827)  
+💻 [GitHub](https://github.com/rrp432)
+
+---
