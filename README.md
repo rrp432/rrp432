@@ -1,4 +1,6 @@
+Got it! Here's your updated `README.md` with that humorous note included naturally:
 
+---
 
 # 👋 Hi, I’m Rudra Patel
 
@@ -19,6 +21,20 @@ Over the past year, I’ve worked in a backend role where I built and improved R
 
 ---
 
+## 🎓 Education
+
+**Rutgers University – New Brunswick, NJ**  
+Bachelor of Science in Computer Science - Dec 24
+
+---
+
+## 🕵️‍♂️ A Little Secret
+
+Some of the projects I’ve worked on aren’t public due to academic rules and team restrictions.  
+But don’t worry—I’d be happy to share the code or walk you through a demo over Zoom. Just say the word 😄
+
+---
+
 ## 📫 Let’s Connect
 
 📧 rrp3827@gmail.com  
@@ -26,3 +42,5 @@ Over the past year, I’ve worked in a backend role where I built and improved R
 💻 [GitHub](https://github.com/rrp432)
 
 ---
+
+Let me know if you'd like a version with Markdown badges or profile stats too!
