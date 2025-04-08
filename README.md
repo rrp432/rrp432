@@ -1,5 +1,3 @@
-Got it! Here's your updated `README.md` with that humorous note included naturally:
-
 ---
 
 # 👋 Hi, I’m Rudra Patel
