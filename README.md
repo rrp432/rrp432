@@ -1,4 +1,4 @@
----
+
 
 # 👋 Hi, I’m Rudra Patel
 
@@ -16,14 +16,6 @@ Over the past year, I’ve worked in a backend role where I built and improved R
 **Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Oracle, Firebase, AWS  
 **Tools:** GitLab, Docker, Jenkins, JUnit, Postman, SonarQube  
 **Concepts:** OOP, Microservices, CI/CD, JWT, OAuth 2.0
-
----
-
-## 🎓 Education
-
-**Rutgers University – New Brunswick, NJ**  
-Bachelor of Science in Computer Science (Expected Dec 2024)  
-Relevant coursework includes Data Structures, Algorithms, Systems Programming, and Database Management.
 
 ---
 
