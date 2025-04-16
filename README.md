@@ -37,8 +37,5 @@ But don’t worry—I’d be happy to share the code or walk you through a demo 
 
 📧 rrp3827@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rrp3827)  
-💻 [GitHub](https://github.com/rrp432)
 
 ---
-
-Let me know if you'd like a version with Markdown badges or profile stats too!
